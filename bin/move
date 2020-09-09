@@ -7,7 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 
 board = [" ", " ", " ",  " ",  " ",  " ",  " ",  " ",  " "]
 
-puts "Where would you like to go?"
+puts "Please select number form 1 - 9"
 
 user_input = gets.strip
 
